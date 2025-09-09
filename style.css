@@ -13,6 +13,9 @@
     background-color: #FFF8F3;
    
 }
+.text-align{
+    text-align: center;
+}
 .margin{
     margin-bottom: 31px;
 }
@@ -120,3 +123,21 @@ main{
 .item-discription{
     font-weight: bold;
 }
+.skills-section-title {
+   border-radius: 10px;
+    padding: 114px 126px;
+    text-align: center;  
+}
+/* skills container */
+.skills-container{
+display: flex;
+gap: 24px;
+}
+
+.skill{
+    padding: 33px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+
